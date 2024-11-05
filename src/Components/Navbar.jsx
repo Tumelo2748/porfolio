@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 const Navs = {
   Navdata: [
@@ -19,7 +19,7 @@ const Navs = {
 };
 
 const Navbar = () => {
-  const [active, setActive] = useState("Home");
+  // const [active, setActive] = useState("Home");
   
   return (
     <div>
