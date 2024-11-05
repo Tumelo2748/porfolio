@@ -29,7 +29,7 @@ const Navbar = () => {
             <div class="shrink-0  p-1">
               <a href="/" alt="I" class="flex">
                 <h1 class="text-3xl text-black text-center animate-text2 bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent">
-                  Lindokuhle-Tumelo
+                  Tumelo
                 </h1>
               </a>
             </div>
