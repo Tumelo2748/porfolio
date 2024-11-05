@@ -28,11 +28,12 @@ const Timeline = () => {
                 <div class="timeline-start md:text-end mb-10">
                   <time class="font-mono italic">2024</time>
                   <div class="text-lg font-black">
-                    Full Stack Developer (Project-Y)
+                    Full Stack Developer & Founding member(Project-Y)
                   </div>
                   <span class="text-gray-300">
-                    Started my first learnership/internship at Project-Y to
-                    Upskill my skill as a full Stack developer
+                    Joined Project-Y to build the first digital nation.
+                    Gained hands-on experience in front-end (Next.js, React, React Native TypeScript) and 
+                    back-end (Node.js, Express, MongoDB)
                   </span>
                 </div>
                 <hr />
@@ -114,7 +115,7 @@ const Timeline = () => {
                 </div>
                 <div class="timeline-end mb-10">
                   <time class="font-mono italic">2020</time>
-                  <div class="text-lg font-black">Starting of University</div>
+                  <div class="text-lg font-black">Starting of University (UJ)</div>
                   <span class="text-gray-300">
                     The Beginning of my software development career
                   </span>
